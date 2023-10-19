@@ -55,7 +55,7 @@ This project focuses on the NRF52 device within a smart cluster, designed to rec
 * Initiate data transmission to the NRF52 device through the app.
 ## Data Reception:
 
-*The NRF52 device will receive and process the data sent from the mobile application.
+* The NRF52 device will receive and process the data sent from the mobile application.
 
 # Troubleshooting
 * If you encounter issues during setup or operation, consider the following:
