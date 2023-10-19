@@ -11,12 +11,12 @@ This project focuses on the NRF52 device within a smart cluster, designed to rec
 
 # Software:
 
-*NRF52 SDK
-*Mobile application (Android/iOS) for data transmission
-*Any necessary libraries or dependencies
+* NRF52 SDK
+* Mobile application (Android/iOS) for data transmission
+* Any necessary libraries or dependencies
 
-#Setup
-#Hardware Connections:
+# Setup
+## Hardware Connections:
 
 * Integrate the NRF52 device into the smart cluster.
 * Ensure proper power supply for all components.
